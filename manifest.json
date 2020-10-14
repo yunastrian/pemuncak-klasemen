@@ -2,7 +2,7 @@
     "name": "Pemuncak Klasemen",
     "short_name": "Sang No. 1",
     "description": "Pemuncak Klasemen di Liga",
-    "start_url": "/index.html",
+    "start_url": "/pemuncak-klasemen/index.html",
     "display": "standalone",
     "background_color": "#00897B",
     "theme_color": "#00897B",
