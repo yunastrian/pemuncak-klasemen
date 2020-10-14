@@ -1,21 +1,21 @@
 const CACHE_NAME = "pemuncak";
 var urlsToCache = [
-  "/",
-  "/nav.html",
-  "/index.html",
-  "/pages/home.html",
-  "/pages/inggris.html",
-  "/pages/italia.html",
-  "/pages/jerman.html",
-  "/pages/spanyol.html",
-  "/css/materialize.min.css",
-  "/js/materialize.min.js",
-  "/js/nav.js",
-  "/asset/atalanta.png",
-  "/asset/everton.png",
-  "/asset/leipzig.png",
-  "/asset/real_madrid.png",
-  "/asset/logo.png"
+  "/pemuncak-klasemen/",
+  "/pemuncak-klasemen/nav.html",
+  "/pemuncak-klasemen/index.html",
+  "/pemuncak-klasemen/pages/home.html",
+  "/pemuncak-klasemen/pages/inggris.html",
+  "/pemuncak-klasemen/pages/italia.html",
+  "/pemuncak-klasemen/pages/jerman.html",
+  "/pemuncak-klasemen/pages/spanyol.html",
+  "/pemuncak-klasemen/css/materialize.min.css",
+  "/pemuncak-klasemen/js/materialize.min.js",
+  "/pemuncak-klasemen/js/nav.js",
+  "/pemuncak-klasemen/asset/atalanta.png",
+  "/pemuncak-klasemen/asset/everton.png",
+  "/pemuncak-klasemen/asset/leipzig.png",
+  "/pemuncak-klasemen/asset/real_madrid.png",
+  "/pemuncak-klasemen/asset/logo.png"
 ];
  
 self.addEventListener("install", function(event) {
